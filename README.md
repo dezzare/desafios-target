@@ -1,3 +1,9 @@
+Repositório contendo apenas resolução de problemas que fazem parte de uma etapa de entrevista.
+
+
+As perguntas e desafios são os seguintes:
+
+
 1) Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
